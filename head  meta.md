@@ -163,6 +163,8 @@ iPhone 5/iPod Touch 5 竖屏 640x1136 (Retina)
 添加 favicon icon 
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico"/>
 
+
+
  sns 社交标签 begin 
  参考微博API 
  
